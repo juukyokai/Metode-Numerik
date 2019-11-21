@@ -21,7 +21,7 @@ if __name__ == '__main__':
 	pos = []
 	temp = a
 	h = (b - a)/n
-	print(h)
+	print("delta x : ",h)
 	for i in range(0,n+1):
 		pos.append(temp)
 		temp = temp + h
