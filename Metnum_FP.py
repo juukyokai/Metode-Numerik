@@ -5,7 +5,7 @@ rumus = "(x**2) + 1"
 def f(x):
   y = (x**2) + 1
   return y
-
+#Rekursif
 def trap_rekursif(b,a,n):
 	#memproses posisi x1 hingga xn
 	pos_temp = []
