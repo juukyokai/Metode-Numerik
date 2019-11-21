@@ -1,6 +1,6 @@
 #!/bin/python
 e= 2.7182818284
-rumus = "(x**2) - (e**x) + 1"
+rumus = "(x**2) + 1"
 def f(x):
   y = (x**2) + 1
   return y
